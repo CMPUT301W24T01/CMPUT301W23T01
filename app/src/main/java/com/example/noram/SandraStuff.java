@@ -1,2 +1,4 @@
-package com.example.noram;public class SandraStuff {
+package com.example.noram;
+
+public class SandraStuff { //fkbvjibvf
 }
